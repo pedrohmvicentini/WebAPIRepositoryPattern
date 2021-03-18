@@ -1,0 +1,12 @@
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\bin\Debug\netstandard2.1\Infrastructure.Interfaces.deps.json
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\bin\Debug\netstandard2.1\Infrastructure.Interfaces.dll
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\bin\Debug\netstandard2.1\Infrastructure.Interfaces.pdb
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\bin\Debug\netstandard2.1\Domain.dll
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\bin\Debug\netstandard2.1\Domain.pdb
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.csprojAssemblyReference.cache
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.AssemblyInfoInputs.cache
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.AssemblyInfo.cs
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.csproj.CopyComplete
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.dll
+D:\Users\PVicentini\source\repos\WebApiRepositoryPattern\Infrastructure.Interfaces\obj\Debug\netstandard2.1\Infrastructure.Interfaces.pdb
